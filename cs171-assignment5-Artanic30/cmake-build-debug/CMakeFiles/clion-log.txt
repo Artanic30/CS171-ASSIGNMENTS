@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/TT/Desktop/CS171/cs171-assignment5-Artanic30
+-- Could NOT find OpenMP_C (missing: OpenMP_C_FLAGS OpenMP_C_LIB_NAMES) 
+-- Could NOT find OpenMP_CXX (missing: OpenMP_CXX_FLAGS OpenMP_CXX_LIB_NAMES) 
+-- Could NOT find OpenMP (missing: OpenMP_C_FOUND OpenMP_CXX_FOUND) 
+Following files are complied /Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/compositor.cpp/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/main.cpp/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/opticsData.cpp/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/renderer.cpp/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/volume.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-debug

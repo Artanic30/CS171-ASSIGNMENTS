@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="path-tracing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="path-tracing">
+				<Option output="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/path-tracing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/src"/>
+					<Add directory="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head"/>
+					<Add directory="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 path-tracing"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="path-tracing/fast">
+				<Option output="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/path-tracing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/src"/>
+					<Add directory="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head"/>
+					<Add directory="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 path-tracing/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/aabb.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/camera.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/film.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/integrator.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/interaction.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/light.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/material.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/objloader.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/parallelogram.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/pathTracingIntegrator.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/ray.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/scene.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/shape.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/head/triangleMesh.hpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/src/main.cpp">
+			<Option target="path-tracing"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

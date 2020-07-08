@@ -1,0 +1,3 @@
+/Users/TT/Desktop/CS171/code/cs171-assignment2-Artanic30/opengl-basic-linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/TT/Desktop/CS171/code/cs171-assignment2-Artanic30/opengl-basic-linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/TT/Desktop/CS171/code/cs171-assignment2-Artanic30/opengl-basic-linux/cmake-build-debug/CMakeFiles/opengl-basic.dir

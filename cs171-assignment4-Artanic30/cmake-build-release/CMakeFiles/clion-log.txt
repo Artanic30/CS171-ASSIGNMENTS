@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/TT/Desktop/CS171/code/cs171-assignment4-Artanic30/cmake-build-release

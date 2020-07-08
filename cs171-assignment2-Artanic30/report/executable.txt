@@ -1,0 +1,1 @@
+The executable for this assignment is placed under opengl-basic-linux/cmake-build-debug for some problems with relative path.

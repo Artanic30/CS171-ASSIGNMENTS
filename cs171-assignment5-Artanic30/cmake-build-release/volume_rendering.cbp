@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="volume_rendering"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="volume_rendering">
+				<Option output="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/volume_rendering" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/head"/>
+					<Add directory="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src"/>
+					<Add directory="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 volume_rendering"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="volume_rendering/fast">
+				<Option output="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/volume_rendering" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/head"/>
+					<Add directory="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src"/>
+					<Add directory="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 volume_rendering/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/compositor.cpp">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/compositor.h">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/main.cpp">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/opticsData.cpp">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/opticsData.h">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/renderer.cpp">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/renderer.h">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/volume.cpp">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/src/volume.h">
+			<Option target="volume_rendering"/>
+		</Unit>
+		<Unit filename="/Users/TT/Desktop/CS171/cs171-assignment5-Artanic30/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
